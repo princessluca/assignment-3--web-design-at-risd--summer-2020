@@ -1,0 +1,54 @@
+html {
+  background-image: url(../img/tux-six.JPG);
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 7rem;
+  background-color: rgba(0,255,127,0.4);
+  text-align: center;
+  margin: 100px 160px;
+  border-radius: 25px;
+  width: 1200px;
+}
+
+p {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.2rem;
+  text-align: justify;
+  width: 500px;
+  margin: auto;
+  background-color: rgba(255,255,255,0.8);
+  padding: 8px;
+}
+
+p > a {
+  position: fixed;
+  bottom: 105px;
+  right: 90px;
+  background-color: rgb(0,255,127);
+  padding: 8px;
+  border-radius: 15px;
+  color: #000;
+  text-decoration: none;
+}
+
+div {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.2rem;
+  text-align: justify;
+  width: 500px;
+  margin: auto;
+}
+
+div > a {
+  position: fixed;
+  bottom: 105px;
+  left: 90px;
+  background-color: rgb(0,255,127);
+  padding: 8px;
+  border-radius: 15px;
+  color: #000;
+  text-decoration: none;
+}
