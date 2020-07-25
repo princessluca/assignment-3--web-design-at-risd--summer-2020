@@ -17,7 +17,7 @@ a {
   color: #f9ddfc;
   text-decoration: none;
   margin: 500px 170px;  
-  background-color: rgba(44,173,251,0.8);
+  background-color: rgb(44,173,251);
   border-radius: 10px;
   box-shadow: 10px 10px 20px #e52cfb;  
 }
