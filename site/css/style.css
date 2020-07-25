@@ -3,10 +3,11 @@ html {
   background-size: cover;
 }
 
-h1 { 
+h1 {
   font-family: 'Archivo Black', sans-serif;
   font-size: 7rem;
   background-color: rgba(0,255,127,0.4);
+  text-shadow: 3px 3px 10px #fff;
   text-align: center;
   margin: 100px 170px;
   border-radius: 25px;
