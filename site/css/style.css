@@ -8,7 +8,7 @@ h1 {
   font-size: 7rem;
   background-color: rgba(0,255,127,0.4);
   text-align: center;
-  margin: 100px 170px ;
+  margin: 100px 170px;
   width: 1200px;
 }
 
@@ -27,4 +27,5 @@ nav {
   font-family: 'Archivo Black', sans-serif;
   font-size: 2rem;
   text-align: right;
+  margin-bottom: 500px;
 }
