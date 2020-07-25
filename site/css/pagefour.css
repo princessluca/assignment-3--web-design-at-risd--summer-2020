@@ -34,12 +34,10 @@ p > a {
   text-decoration: none;
 }
 
-div {
+div,
+span {
   font-family: 'Rubik', sans-serif;
   font-size: 1.2rem;
-  text-align: justify;
-  width: 500px;
-  margin: auto;
 }
 
 div > a {
@@ -52,3 +50,4 @@ div > a {
   color: #000;
   text-decoration: none;
 }
+
