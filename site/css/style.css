@@ -2,3 +2,7 @@ html {
   background-image: url(../img/tux-fun.JPG);
   background-size: cover;
 }
+
+h1 { 
+  font-size: 7rem;
+}
