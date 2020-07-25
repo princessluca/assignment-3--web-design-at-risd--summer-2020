@@ -25,7 +25,7 @@ p > a {
   position: fixed;
   bottom: 105px;
   right: 90px;
-  background-color: rgba(0,255,127,0.4);
+  background-color: rgb(0,255,127);
   padding: 8px;
   border-radius: 15px;
   color: #000;
@@ -44,7 +44,7 @@ div > a {
   position: fixed;
   bottom: 105px;
   left: 90px;
-  background-color: rgba(0,255,127,0.4);
+  background-color: rgb(0,255,127);
   padding: 8px;
   border-radius: 15px;
   color: #000;
