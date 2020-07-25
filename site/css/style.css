@@ -28,7 +28,13 @@ a {
 nav {
   font-family: 'Archivo Black', sans-serif;
   font-size: 2rem;
+  color: #f9ddfc;
   line-height: 1.2;
-  text-align: right;
-  margin-right: 70px;
+  padding: 12px;
+  background-color: #079956;
+  border-radius: 10px;
+  width: 180px;
+  position: fixed;
+  bottom: 160px;
+  right: 170px;
 }
