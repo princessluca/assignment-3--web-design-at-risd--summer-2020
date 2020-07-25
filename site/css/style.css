@@ -22,3 +22,7 @@ a {
   box-shadow: 10px 10px 20px #e52cfb;
   margin: 500px 170px;  
 }
+
+nav {
+  font-family: 'Archivo Black', sans-serif;
+}
