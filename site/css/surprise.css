@@ -1,0 +1,23 @@
+html {
+  background-color: rgb(221,160,221);
+}
+
+p {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  width: 200px;
+  margin: auto;
+  padding: 8px;
+  background-color: rgb(143,188,143);
+}
+
+p > a {
+  color: rgb(138,43,226);
+  text-decoration: none;
+}
+
+img {
+  width: 300px;
+  margin: 30px 600px;
+}
