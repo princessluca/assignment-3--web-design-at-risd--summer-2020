@@ -51,6 +51,17 @@ div > a {
   border-radius: 15px;
   color: #000;
   text-decoration: none;
+}
+
+span {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.2rem;
+  text-align: justify;
+  width: 500px;
+  margin: auto;
+}
+
+span > a {
   position: fixed;
   bottom: 105px;
   left: 90px;
@@ -60,3 +71,5 @@ div > a {
   color: #000;
   text-decoration: none;
 }
+
+
