@@ -10,6 +10,7 @@ p {
   margin: auto;
   padding: 8px;
   background-color: rgb(143,188,143);
+  border-radius: 10px;
 }
 
 p > a {
@@ -20,4 +21,5 @@ p > a {
 img {
   width: 300px;
   margin: 30px 605px;
+  border-radius: 10px;
 }
