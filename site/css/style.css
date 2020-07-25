@@ -5,4 +5,5 @@ html {
 
 h1 { 
   font-size: 7rem;
+  background-color: rgba(0,255,127,0.4);
 }
