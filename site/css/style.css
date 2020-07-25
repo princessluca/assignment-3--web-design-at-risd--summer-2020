@@ -37,3 +37,7 @@ nav {
   bottom: 160px;
   right: 170px;
 }
+
+li > a {
+  color: #f9ddfc;
+}
