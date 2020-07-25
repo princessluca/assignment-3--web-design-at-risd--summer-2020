@@ -50,3 +50,14 @@ div > a {
   color: #000;
   text-decoration: none;
 }
+
+span > a {
+  position: fixed;
+  bottom: 105px;
+  left: 90px;
+  background-color: rgb(0,255,127);
+  padding: 8px;
+  border-radius: 15px;
+  color: #000;
+  text-decoration: none;
+}
