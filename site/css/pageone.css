@@ -18,7 +18,7 @@ p {
 
 p > a {
   position: fixed;
-  bottom: 90px;
+  bottom: 105px;
   right: 90px;
   background-color: rgba(0,255,127,0.4);
   padding: 8px;
@@ -37,7 +37,7 @@ div {
 
 div > a {
   position: fixed;
-  bottom: 100px;
+  bottom: 105px;
   left: 90px;
   background-color: rgba(0,255,127,0.4);
   padding: 8px;
