@@ -10,6 +10,9 @@ p {
   width: 500px;
   margin: auto;
   padding: 8px;
+  background-color: #fff;
+}
+
 p > a {
   color: rgb(138,43,226);
   text-decoration: none;
