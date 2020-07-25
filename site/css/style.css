@@ -18,4 +18,5 @@ a {
   text-decoration: none;
   margin: 500px 170px;  
   background-color: rgba(44,173,251,0.8);
+  border-radius: 10px;
 }
