@@ -10,4 +10,7 @@ p {
   width: 500px;
   margin: auto;
   padding: 8px;
+p > a {
+  color: rgb(138,43,226);
+  text-decoration: none;
 }
