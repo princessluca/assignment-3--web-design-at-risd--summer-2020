@@ -9,6 +9,7 @@ h1 {
   background-color: rgba(0,255,127,0.4);
   text-align: center;
   margin: 100px 170px;
+  border-radius: 25px;
   width: 1200px;
 }
 
